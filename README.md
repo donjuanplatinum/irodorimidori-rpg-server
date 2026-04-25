@@ -16,3 +16,7 @@ cargo build --release
 ./auto-server ./2024 2024 # 2024版本
 ```
 
+## 版权声明
+所有的版权归[彩绿官方](https://x.com/irodorimidori5)所有
+
+
